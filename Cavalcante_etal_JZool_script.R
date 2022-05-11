@@ -24,7 +24,7 @@ jaccard.test.bootstrap(behav1, behav2, B=1000)#bootstrap with 1000 iterations
 ##### Simulations to identify the type I error rate #####
 
 #Example with N= 15 days
-#Note that you can use your own sample size (number of days) to test #the feasibility of this test for your study
+#Note that you can use your own sample size (number of days) to test the feasibility of this test for your study
 p = NA
 
 set.seed(1234)
